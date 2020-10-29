@@ -1,0 +1,825 @@
+[
+  {
+    "codeDepartement": "01",
+    "nomDepartement": "Ain",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.ain.gouv.fr/coronavirus-covid-19-r1627.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "02",
+    "nomDepartement": "Aisne",
+    "nomRegion": "Hauts-de-France",
+    "pagePrefecture": "https://www.aisne.gouv.fr/Actualites/COVID-19-point-sur-la-situation-dans-l-Aisne",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "03",
+    "nomDepartement": "Allier",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.allier.gouv.fr/covid-19-point-sur-la-situation-dans-l-allier-a3067.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "04",
+    "nomDepartement": "Alpes-de-Haute-Provence",
+    "nomRegion": "Provence-Alpes-Côte d'Azur",
+    "pagePrefecture": "http://www.alpes-de-haute-provence.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-dans-les-Alpes-de-Haute-Provence",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "05",
+    "nomDepartement": "Hautes-Alpes",
+    "nomRegion": "Provence-Alpes-Côte d'Azur",
+    "pagePrefecture": "http://www.hautes-alpes.gouv.fr/informations-covid-19-r1977.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "06",
+    "nomDepartement": "Alpes-Maritimes",
+    "nomRegion": "Provence-Alpes-Côte d'Azur",
+    "pagePrefecture": "http://www.alpes-maritimes.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-dans-les-Alpes-Maritimes",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "07",
+    "nomDepartement": "Ardèche",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.ardeche.gouv.fr/covid-19-point-sur-la-situation-en-ardeche-r1877.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "08",
+    "nomDepartement": "Ardennes",
+    "nomRegion": "Grand Est",
+    "pagePrefecture": "http://www.ardennes.gouv.fr/crise-sanitaire-liee-a-l-epidemie-de-covid-19-r906.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "09",
+    "nomDepartement": "Ariège",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.ariege.gouv.fr/Actualites/Covid-19-Intensification-du-port-du-masque-et-controle-du-respect-des-mesures-barriere",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "10",
+    "nomDepartement": "Aube",
+    "nomRegion": "Grand Est",
+    "pagePrefecture": "http://www.aube.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-de-l-Aube",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "11",
+    "nomDepartement": "Aude",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.aude.gouv.fr/coronavirus-r2462.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "12",
+    "nomDepartement": "Aveyron",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.aveyron.gouv.fr/covid-19-r396.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "13",
+    "nomDepartement": "Bouches-du-Rhône",
+    "nomRegion": "Provence-Alpes-Côte d'Azur",
+    "pagePrefecture": "http://www.bouches-du-rhone.gouv.fr/Actualites/Actualites/Actualites-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "14",
+    "nomDepartement": "Calvados",
+    "nomRegion": "Normandie",
+    "pagePrefecture": "http://www.calvados.gouv.fr/coronavirus-covid-19-informations-et-r1953.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "15",
+    "nomDepartement": "Cantal",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.cantal.gouv.fr/coronavirus-covid-19-informations-et-r2804.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "16",
+    "nomDepartement": "Charente",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.charente.gouv.fr/Actualites/Coronavirus-COVID-19-informations-mesures-sanitaires-et-deconfinement",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "17",
+    "nomDepartement": "Charente-Maritime",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.charente-maritime.gouv.fr/Politiques-publiques/Securite/Securite-sanitaire/Coronavirus-Deconfinement-Masques-Tests/Coronavirus-COVID-19-Informations-recommandations",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "18",
+    "nomDepartement": "Cher",
+    "nomRegion": "Centre-Val de Loire",
+    "pagePrefecture": "https://www.cher.gouv.fr/Actualites/COVID-19-point-sur-la-situation-dans-le-Cher",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "19",
+    "nomDepartement": "Corrèze",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.correze.gouv.fr/Politiques-publiques/Sante/COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "21",
+    "nomDepartement": "Côte-d'Or",
+    "nomRegion": "Bourgogne-Franche-Comté",
+    "pagePrefecture": "http://www.cote-dor.gouv.fr/coronavirus-covid-19-toutes-les-informations-r3115.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "22",
+    "nomDepartement": "Côtes-d'Armor",
+    "nomRegion": "Bretagne",
+    "pagePrefecture": "https://www.cotes-darmor.gouv.fr/Politiques-publiques/Sante/Covid-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "23",
+    "nomDepartement": "Creuse",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.creuse.gouv.fr/Actualites/Covid-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "24",
+    "nomDepartement": "Dordogne",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.dordogne.gouv.fr/Politiques-publiques/Sante-solidarite-et-cohesion-sociale/Informations-coronavirus-COVID19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "25",
+    "nomDepartement": "Doubs",
+    "nomRegion": "Bourgogne-Franche-Comté",
+    "pagePrefecture": "http://www.doubs.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-dans-le-Doubs",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "26",
+    "nomDepartement": "Drôme",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.drome.gouv.fr/le-covid-19-en-drome-a7414.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "27",
+    "nomDepartement": "Eure",
+    "nomRegion": "Normandie",
+    "pagePrefecture": "https://www.eure.gouv.fr/Politiques-publiques/Sante/Coronavirus-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "28",
+    "nomDepartement": "Eure-et-Loir",
+    "nomRegion": "Centre-Val de Loire",
+    "pagePrefecture": "https://www.eure-et-loir.gouv.fr/Actualites/Annee-2020/INFORMATIONS-CORONAVIRUS-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "29",
+    "nomDepartement": "Finistère",
+    "nomRegion": "Bretagne",
+    "pagePrefecture": "https://www.finistere.gouv.fr/Actualites/Covid-19-informations",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "2A",
+    "nomDepartement": "Corse-du-Sud",
+    "nomRegion": "Corse",
+    "pagePrefecture": "http://www.corse-du-sud.gouv.fr/information-coronavirus-a2335.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "2B",
+    "nomDepartement": "Haute-Corse",
+    "nomRegion": "Corse",
+    "pagePrefecture": "http://www.haute-corse.gouv.fr/covid-19-point-sur-la-situation-en-haute-corse-r651.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "30",
+    "nomDepartement": "Gard",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.gard.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-dans-le-Gard",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "31",
+    "nomDepartement": "Haute-Garonne",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.haute-garonne.gouv.fr/Politiques-publiques/Securite-et-protection-des-personnes-et-des-biens/Coronavirus-COVID19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "32",
+    "nomDepartement": "Gers",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.gers.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-sans-le-Gers",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "33",
+    "nomDepartement": "Gironde",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.gironde.gouv.fr/Actualites/COVID-19-point-de-la-situation-en-Gironde",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "34",
+    "nomDepartement": "Hérault",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.herault.gouv.fr/Actualites/L-Herault-face-a-la-Covid-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "35",
+    "nomDepartement": "Ille-et-Vilaine",
+    "nomRegion": "Bretagne",
+    "pagePrefecture": "https://www.ille-et-vilaine.gouv.fr/Actualites/Coronavirus-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "36",
+    "nomDepartement": "Indre",
+    "nomRegion": "Centre-Val de Loire",
+    "pagePrefecture": "https://www.indre.gouv.fr/Politiques-publiques/Securite-et-protection-de-la-population/COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "37",
+    "nomDepartement": "Indre-et-Loire",
+    "nomRegion": "Centre-Val de Loire",
+    "pagePrefecture": "https://www.indre-et-loire.gouv.fr/Actualites/COVID-19-Deconfinement-phase-2",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "38",
+    "nomDepartement": "Isère",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.isere.gouv.fr/Actualites/Actualite-des-particuliers/Actualites-COVID-de-RENTREE-2020",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "39",
+    "nomDepartement": "Jura",
+    "nomRegion": "Bourgogne-Franche-Comté",
+    "pagePrefecture": "http://www.isere.gouv.fr/Politiques-publiques/Risques/Risques-sanitaires/Covid-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "40",
+    "nomDepartement": "Landes",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.landes.gouv.fr/covid-19-point-sur-la-situation-dans-les-landes-r887.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "41",
+    "nomDepartement": "Loir-et-Cher",
+    "nomRegion": "Centre-Val de Loire",
+    "pagePrefecture": "https://www.loir-et-cher.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-en-Loir-et-Cher",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "42",
+    "nomDepartement": "Loire",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.loire.gouv.fr/covid-19-point-de-situation-dans-la-loire-r1747.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "43",
+    "nomDepartement": "Haute-Loire",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.haute-loire.gouv.fr/",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "44",
+    "nomDepartement": "Loire-Atlantique",
+    "nomRegion": "Pays de la Loire",
+    "pagePrefecture": "https://www.loire-atlantique.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-en-Loire-Atlantique",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "45",
+    "nomDepartement": "Loiret",
+    "nomRegion": "Centre-Val de Loire",
+    "pagePrefecture": "https://www.loiret.gouv.fr/Actualites/COVID-19-Informations-recommandations-mesures-sanitaires",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "46",
+    "nomDepartement": "Lot",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.lot.gouv.fr/covid-19-point-sur-la-situation-dans-le-lot-r4332.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "47",
+    "nomDepartement": "Lot-et-Garonne",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.lot-et-garonne.gouv.fr/coronavirus-covid-19-toutes-les-informations-r876.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "48",
+    "nomDepartement": "Lozère",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.lozere.gouv.fr/Actualites/COVID-19-Point-de-situation-en-Lozere",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "49",
+    "nomDepartement": "Maine-et-Loire",
+    "nomRegion": "Pays de la Loire",
+    "pagePrefecture": "http://www.maine-et-loire.gouv.fr/coronavirus-covid-19-strategie-de-deconfinement-r2190.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "50",
+    "nomDepartement": "Manche",
+    "nomRegion": "Normandie",
+    "pagePrefecture": "https://www.manche.gouv.fr/Politiques-publiques/Sante/Coronavirus-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "51",
+    "nomDepartement": "Marne",
+    "nomRegion": "Grand Est",
+    "pagePrefecture": "http://www.marne.gouv.fr/Actualites/Infos/Coronavirus-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "52",
+    "nomDepartement": "Haute-Marne",
+    "nomRegion": "Grand Est",
+    "pagePrefecture": "http://www.haute-marne.gouv.fr/Politiques-publiques/Securite/Securite-sanitaire/COVID-19/Covid-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "53",
+    "nomDepartement": "Mayenne",
+    "nomRegion": "Pays de la Loire",
+    "pagePrefecture": "https://www.mayenne.gouv.fr/Politiques-publiques/Sante/Coronavirus-COVID-19-Informations-recommandations-et-mesures-sanitaires",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "54",
+    "nomDepartement": "Meurthe-et-Moselle",
+    "nomRegion": "Grand Est",
+    "pagePrefecture": "http://www.meurthe-et-moselle.gouv.fr/Politiques-publiques/Securite-et-protection-de-la-population/Coronavirus-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "55",
+    "nomDepartement": "Meuse",
+    "nomRegion": "Grand Est",
+    "pagePrefecture": "http://www.meuse.gouv.fr/Actualites/Mesures-relatives-a-la-lutte-contre-le-virus-Covid-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "56",
+    "nomDepartement": "Morbihan",
+    "nomRegion": "Bretagne",
+    "pagePrefecture": "https://www.morbihan.gouv.fr/Actualites/Actus/Le-Morbihan-face-au-Coronavirus-Covid19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "57",
+    "nomDepartement": "Moselle",
+    "nomRegion": "Grand Est",
+    "pagePrefecture": "http://www.moselle.gouv.fr/tags/view/Les+dossiers/Informations+COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "58",
+    "nomDepartement": "Nièvre",
+    "nomRegion": "Bourgogne-Franche-Comté",
+    "pagePrefecture": "http://www.nievre.gouv.fr/covid-19-r781.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "59",
+    "nomDepartement": "Nord",
+    "nomRegion": "Hauts-de-France",
+    "pagePrefecture": "https://www.nord.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-dans-le-Nord",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "60",
+    "nomDepartement": "Oise",
+    "nomRegion": "Hauts-de-France",
+    "pagePrefecture": "https://www.oise.gouv.fr/Actualites/COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "61",
+    "nomDepartement": "Orne",
+    "nomRegion": "Normandie",
+    "pagePrefecture": "http://www.orne.gouv.fr/coronavirus-covid19-r4087.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "62",
+    "nomDepartement": "Pas-de-Calais",
+    "nomRegion": "Hauts-de-France",
+    "pagePrefecture": "https://www.pas-de-calais.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-dans-le-Pas-de-Calais.",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "63",
+    "nomDepartement": "Puy-de-Dôme",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.puy-de-dome.gouv.fr/strategie-locale-de-deconfinement-a8240.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "64",
+    "nomDepartement": "Pyrénées-Atlantiques",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.pyrenees-atlantiques.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-en-Pyrenees-Atlantiques",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "65",
+    "nomDepartement": "Hautes-Pyrénées",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.hautes-pyrenees.gouv.fr/covid-19-point-sur-la-situation-en-hautes-pyrenees-r1537.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "66",
+    "nomDepartement": "Pyrénées-Orientales",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.pyrenees-orientales.gouv.fr/Actualites/Coronavirus-Covid-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "67",
+    "nomDepartement": "Bas-Rhin",
+    "nomRegion": "Grand Est",
+    "pagePrefecture": "http://www.bas-rhin.gouv.fr/Actualites/Covid-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "68",
+    "nomDepartement": "Haut-Rhin",
+    "nomRegion": "Grand Est",
+    "pagePrefecture": "http://www.haut-rhin.gouv.fr/Actualites/Actualites-du-Prefet-et-des-Sous-Prefets/Coronavirus-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "69",
+    "nomDepartement": "Rhône",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.rhone.gouv.fr/Actualites/COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "70",
+    "nomDepartement": "Haute-Saône",
+    "nomRegion": "Bourgogne-Franche-Comté",
+    "pagePrefecture": "http://www.haute-saone.gouv.fr/Politiques-publiques/Sante/Coronavirus",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "71",
+    "nomDepartement": "Saône-et-Loire",
+    "nomRegion": "Bourgogne-Franche-Comté",
+    "pagePrefecture": "http://www.saone-et-loire.gouv.fr/informations-coronavirus-covid-19-r2997.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "72",
+    "nomDepartement": "Sarthe",
+    "nomRegion": "Pays de la Loire",
+    "pagePrefecture": "http://www.sarthe.gouv.fr/covid-19-point-sur-la-situation-en-sarthe-a4484.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "73",
+    "nomDepartement": "Savoie",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.savoie.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-en-Savoie",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "74",
+    "nomDepartement": "Haute-Savoie",
+    "nomRegion": "Auvergne-Rhône-Alpes",
+    "pagePrefecture": "http://www.haute-savoie.gouv.fr/Actualites/Actualites/Coronavirus-Covid-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "75",
+    "nomDepartement": "Paris",
+    "nomRegion": "Île-de-France",
+    "pagePrefecture": "https://www.prefectures-regions.gouv.fr/ile-de-france/Actualites/Covid-19-le-bilan-de-l-action-des-services-de-l-Etat-en-Ile-de-France",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "76",
+    "nomDepartement": "Seine-Maritime",
+    "nomRegion": "Normandie",
+    "pagePrefecture": "https://www.seine-maritime.gouv.fr/Actualites/COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "77",
+    "nomDepartement": "Seine-et-Marne",
+    "nomRegion": "Île-de-France",
+    "pagePrefecture": "http://www.seine-et-marne.gouv.fr/Actualites/Actualite-du-prefet/Les-infos-locales-et-nationales-sur-le-Coronavirus",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "78",
+    "nomDepartement": "Yvelines",
+    "nomRegion": "Île-de-France",
+    "pagePrefecture": "http://www.yvelines.gouv.fr/Actualites/COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "79",
+    "nomDepartement": "Deux-Sèvres",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.deux-sevres.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-en-Deux-Sevres",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "80",
+    "nomDepartement": "Somme",
+    "nomRegion": "Hauts-de-France",
+    "pagePrefecture": "https://www.somme.gouv.fr/Actualites/COVID-19-point-sur-la-situation-dans-la-Somme",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "81",
+    "nomDepartement": "Tarn",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.tarn.gouv.fr/covid-19-point-sur-la-situation-dans-le-tarn-r1145.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "82",
+    "nomDepartement": "Tarn-et-Garonne",
+    "nomRegion": "Occitanie",
+    "pagePrefecture": "http://www.tarn-et-garonne.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-en-Tarn-et-Garonne",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "83",
+    "nomDepartement": "Var",
+    "nomRegion": "Provence-Alpes-Côte d'Azur",
+    "pagePrefecture": "http://www.var.gouv.fr/le-var-face-au-covid-19-r2322.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "84",
+    "nomDepartement": "Vaucluse",
+    "nomRegion": "Provence-Alpes-Côte d'Azur",
+    "pagePrefecture": "http://www.vaucluse.gouv.fr/covid-19-point-de-situation-en-vaucluse-r3752.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "85",
+    "nomDepartement": "Vendée",
+    "nomRegion": "Pays de la Loire",
+    "pagePrefecture": "http://www.vendee.gouv.fr/",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "86",
+    "nomDepartement": "Vienne",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.vienne.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-en-Vienne",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "87",
+    "nomDepartement": "Haute-Vienne",
+    "nomRegion": "Nouvelle-Aquitaine",
+    "pagePrefecture": "http://www.haute-vienne.gouv.fr/Actualites/COVID-19-en-Haute-Vienne",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "88",
+    "nomDepartement": "Vosges",
+    "nomRegion": "Grand Est",
+    "pagePrefecture": "http://www.vosges.gouv.fr/Actualites/Coronavirus-Covid-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "89",
+    "nomDepartement": "Yonne",
+    "nomRegion": "Bourgogne-Franche-Comté",
+    "pagePrefecture": "http://www.yonne.gouv.fr/Actualites/COVID-19-Coronavirus-toutes-les-informations",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "90",
+    "nomDepartement": "Territoire de Belfort",
+    "nomRegion": "Bourgogne-Franche-Comté",
+    "pagePrefecture": "http://www.territoire-de-belfort.gouv.fr/Politiques-publiques/Sante-Solidarites-et-cohesion-sociale/Coronavirus-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "91",
+    "nomDepartement": "Essonne",
+    "nomRegion": "Île-de-France",
+    "pagePrefecture": "http://www.essonne.gouv.fr/Actualites/Covid-19-point-sur-la-situation-en-Essonne",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "92",
+    "nomDepartement": "Hauts-de-Seine",
+    "nomRegion": "Île-de-France",
+    "pagePrefecture": "http://www.hauts-de-seine.gouv.fr/COVID-19-Point-sur-la-situation-dans-les-Hauts-de-Seine",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "93",
+    "nomDepartement": "Seine-Saint-Denis",
+    "nomRegion": "Île-de-France",
+    "pagePrefecture": "http://www.seine-saint-denis.gouv.fr/Actualites/COVID-19-Informations/COVID-19-Point-sur-la-situation-en-Seine-Saint-Denis",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "94",
+    "nomDepartement": "Val-de-Marne",
+    "nomRegion": "Île-de-France",
+    "pagePrefecture": "http://www.val-de-marne.gouv.fr/Actualites/COVID-19-Plan-de-deconfinement-et-organisation-de-la-vie-quotidienne",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "95",
+    "nomDepartement": "Val-d'Oise",
+    "nomRegion": "Île-de-France",
+    "pagePrefecture": "http://www.val-doise.gouv.fr/Actualites/COVID-19-Mesures-et-declarations-officielles",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "971",
+    "nomDepartement": "Guadeloupe",
+    "nomRegion": "Guadeloupe",
+    "pagePrefecture": "http://www.guadeloupe.gouv.fr/Politiques-publiques/Risques-naturels-technologiques-et-sanitaires/Securite-sanitaire/Informations-coronavirus",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "972",
+    "nomDepartement": "Martinique",
+    "nomRegion": "Martinique",
+    "pagePrefecture": "http://www.martinique.gouv.fr/Politiques-publiques/Environnement-sante-publique/Sante/Informations-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "973",
+    "nomDepartement": "Guyane",
+    "nomRegion": "Guyane",
+    "pagePrefecture": "http://www.guyane.gouv.fr/Politiques-publiques/COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "orange"
+  },
+  {
+    "codeDepartement": "974",
+    "nomDepartement": "La Réunion",
+    "nomRegion": "La Réunion",
+    "pagePrefecture": "http://www.reunion.gouv.fr/la-reunion-face-au-covid-19-r461.html",
+    "date": "2020-06-15",
+    "indicateurSynthese": "vert"
+  },
+  {
+    "codeDepartement": "975",
+    "nomDepartement": "Saint-Pierre-et-Miquelon",
+    "pagePrefecture": "http://www.saint-pierre-et-miquelon.gouv.fr/Publications/Coronavirus-Covid-19"
+  },
+  {
+    "codeDepartement": "976",
+    "nomDepartement": "Mayotte",
+    "nomRegion": "Mayotte",
+    "pagePrefecture": "http://www.mayotte.gouv.fr/Politiques-publiques/Sante/CORONAVIRUS-COVID-19",
+    "date": "2020-06-15",
+    "indicateurSynthese": "orange"
+  },
+  {
+    "codeDepartement": "977",
+    "nomDepartement": "Saint-Barthelemy",
+    "pagePrefecture": "http://www.saint-barth-saint-martin.gouv.fr/"
+  },
+  {
+    "codeDepartement": "978",
+    "nomDepartement": "Saint-Martin",
+    "pagePrefecture": "http://www.saint-barth-saint-martin.gouv.fr/"
+  }
+]
